@@ -14,7 +14,7 @@ export default function Home() {
                     <h1 className={"font-extrabold text-5xl md:text-6xl lg:text-7xl p-2 text-center gradient-title"}>Beans Technologies</h1>
                     <p className={"text-center mt-3 font-semibold text-xl w-[95%]"}>High-quality open-source software solution for web developers.</p>
                     <div className={"mt-5"}>
-                        <Link href={""} target={"_blank"} rel={"nofollow"}>
+                        <Link href={"https://github.com/BeansTechnologies"} target={"_blank"} rel={"nofollow"}>
                             <button className="btn bg-white text-black hover:bg-gray-200 border-none transition-colors duration-200 ease-in-out">Visit github</button>
                         </Link>
                     </div>
