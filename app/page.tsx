@@ -20,7 +20,7 @@ export default function Home() {
                     </div>
                 </div>
 
-                <Link href={"docs.beanstech.tech"}>
+                <Link href={"https://docs.beanstech.tech"}>
                     <div className="grid mt-10 gap-8 grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 md:px-[12rem]">
                         <div className={"flex flex-col bg-accent2 p-4 rounded-lg border-2 border-purple-400 shadow-lg shadow-purple-500 cursor-pointer"}>
                             <h2 className={"font-bold text-2xl text-purple-500 flex flex-row items-center"}><FaTools className={"w-5 h-5 mr-2"}/> Tools</h2>
